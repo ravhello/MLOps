@@ -1,1 +1,0 @@
-print("leo is worse than jonathan at chess")
