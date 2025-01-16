@@ -1,0 +1,1 @@
+print("riccardo is worse than jonathan at chess")
