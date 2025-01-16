@@ -1,1 +1,1 @@
-print("leo is worse than jonathan at chess")
+print("leo and ricky is worse than jonathan at chess")
