@@ -1,1 +1,4 @@
-print("leo and ricky is worse than jonathan at chess")
+from regression.data_loading import import_data
+
+df= import_data()
+print(df)
